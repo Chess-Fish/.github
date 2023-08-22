@@ -1,8 +1,12 @@
 ## ChessFish
 
+
+Follow us on Twitter!
+[ChessFish Twitter](https://twitter.com/evmchess)
+
+
 <!--
 
-**Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
 🌈 Contribution guidelines - how can the community get involved?
