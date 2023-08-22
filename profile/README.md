@@ -5,7 +5,7 @@
 [ChessFish Twitter](https://twitter.com/evmchess)
 
 ### Join Our Telegram Channel!
-[ChessFish Twitter](https://t.me/chessfish)
+[ChessFish Telegram Channel](https://t.me/chessfish)
 
 
 <!--
