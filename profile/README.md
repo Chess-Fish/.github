@@ -1,8 +1,11 @@
 ## ChessFish
 
 
-Follow us on Twitter!
+#### Follow us on Twitter!
 [ChessFish Twitter](https://twitter.com/evmchess)
+
+Join Our Telegram Channel!
+[ChessFish Twitter](https://t.me/chessfish)
 
 
 <!--
