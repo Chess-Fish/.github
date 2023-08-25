@@ -1,7 +1,7 @@
 ## ChessFish
 
 ### ChessFish
-app.chess.fish
+[app.chess.fish](https://app.chess.fish/)
 
 ### Follow us on Twitter!
 [ChessFish Twitter](https://twitter.com/evmchess)
