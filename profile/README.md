@@ -1,6 +1,6 @@
 ## ChessFish
 
-### ChessFish
+### ChessFish dApp
 [app.chess.fish](https://app.chess.fish/)
 
 ### Follow us on Twitter!
