@@ -1,12 +1,12 @@
 ## ChessFish
 
-### ChessFish dApp
+### ChessFish interface
 [app.chess.fish](https://app.chess.fish/)
 
-### Follow us on Twitter!
+### Twitter
 [ChessFish Twitter](https://twitter.com/evmchess)
 
-### Join Our Telegram Channel!
+### Telegram Channel
 [ChessFish Telegram Channel](https://t.me/chessfish)
 
 
