@@ -1,4 +1,4 @@
-## ChessFish
+## ChessFish ♟️🐠
 
 ChessFish is a censorship resistant, 100% trustless, web3 chess platform. ChessFish makes it possible to play chess for crypto in 1v1 matches or in tournaments with all chess moves being verified on chain.
 
