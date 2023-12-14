@@ -1,14 +1,11 @@
 ## ChessFish
 
-### ChessFish interface
-[app.chess.fish](https://app.chess.fish/)
+ChessFish is a censorship resistant, 100% trustless, web3 chess platform. ChessFish makes it possible to play chess for crypto in 1v1 matches or in tournaments with all chess moves being verified on chain.
 
-### Twitter
-[ChessFish Twitter](https://twitter.com/evmchess)
-
-### Telegram Channel
-[ChessFish Telegram Channel](https://t.me/chessfish)
-
+### Links
+- 🌐 [app.chess.fish](https://app.chess.fish/)
+- 🐦 [ChessFish X](https://x.com/evmchess)
+- 💬 [ChessFish Telegram Channel](https://t.me/chessfish)
 
 <!--
 
